@@ -1,0 +1,19 @@
+
+.buttons{
+    margin-top: 1.5em;
+}
+
+.todoButton{
+    background-color: orange;
+    height: 4em;
+    width: 6em;
+    margin:0.5em;
+   
+}
+.boardButton{
+    background-color: orangered;
+    height: 4em;
+    width: 6em;
+    margin:0.5em;
+ 
+}
