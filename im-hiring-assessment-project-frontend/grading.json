@@ -17,10 +17,10 @@
   },
   "advanced": {
     "link": 2,
-    "back": 0,
+    "back": 2,
     "deploy": 2,
     "loading": 0,
-    "responsive": 0,
+    "responsive": 1,
     "posting": 0,
     "reply": 0,
     "env": 2
