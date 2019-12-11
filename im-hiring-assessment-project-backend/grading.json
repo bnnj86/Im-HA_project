@@ -1,30 +1,31 @@
 {
   "bare_min": {
-    "json": 0,
-    "run": 0,
-    "eslint": 0,
-    "test": 0,
-    "directory": 0,
-    "readme": 0,
-    "secret": 0,
-    "controller": 0,
-    "model": 0,
-    "router": 0,
-    "docs": 0,
-    "err_server": 0,
+    "json": 3,
+    "run": 3,
+    "eslint": 3,
+    "test": 3,
+    "directory": 3,
+    "readme": 3,
+    "secret": 3,
+    "controller": 3,
+    "model": 2,
+    "router": 3,
+    "docs": 3,
+    "err_server": 3,
     "data_migration": 0,
-    "db_connect": 0,
-    "env": 0,
-    "git": 0
+    "db_connect": 3,
+    "env": 3,
+    "git": 3
   },
   "advanced": {
-    "middleware": 0,
-    "orm": 0,
-    "mvc": 0,
-    "adv_api_01": 0,
-    "adv_api_02": 0,
+    "middleware": 3,
+    "orm": 3,
+    "mvc": 2,
+    "err_client": 3,
+    "adv_api_01": 3,
+    "adv_api_02": 2,
     "system": 0,
     "script_db_migration": 0,
-    "deploy": 0
+    "deploy": 3
   }
 }
