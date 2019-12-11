@@ -8,11 +8,11 @@
     "readme": 3,
     "secret": 3,
     "controller": 3,
-    "model": 2,
+    "model": 3,
     "router": 3,
     "docs": 3,
     "err_server": 3,
-    "data_migration": 0,
+    "data_migration": 1,
     "db_connect": 3,
     "env": 3,
     "git": 3
@@ -20,7 +20,7 @@
   "advanced": {
     "middleware": 3,
     "orm": 3,
-    "mvc": 2,
+    "mvc": 3,
     "err_client": 3,
     "adv_api_01": 3,
     "adv_api_02": 2,
