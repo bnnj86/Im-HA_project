@@ -13,6 +13,8 @@ class App extends Component {
           <Route path="/Board/:list" component={Board} />
           <Route path="/Board" component={Board} />
           <Route path="/User" component={User} />
+          <Route path="/User/:userId" component={User} />
+          <Route path="/User/:userId/todos" component={User} />
         </Switch>
       </div>
     );
